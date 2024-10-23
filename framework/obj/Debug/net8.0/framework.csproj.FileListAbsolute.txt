@@ -1,0 +1,12 @@
+/Users/kornkunayothin/Workspace/thanachart/framework/bin/Debug/net8.0/framework.deps.json
+/Users/kornkunayothin/Workspace/thanachart/framework/bin/Debug/net8.0/framework.dll
+/Users/kornkunayothin/Workspace/thanachart/framework/bin/Debug/net8.0/framework.pdb
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.csproj.AssemblyReference.cache
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.AssemblyInfoInputs.cache
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.AssemblyInfo.cs
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.csproj.CoreCompileInputs.cache
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.dll
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/refint/framework.dll
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/framework.pdb
+/Users/kornkunayothin/Workspace/thanachart/framework/obj/Debug/net8.0/ref/framework.dll

@@ -1,0 +1,15 @@
+/Users/kornkunayothin/Workspace/thanachart/usecases/bin/Debug/net8.0/usecases.deps.json
+/Users/kornkunayothin/Workspace/thanachart/usecases/bin/Debug/net8.0/usecases.dll
+/Users/kornkunayothin/Workspace/thanachart/usecases/bin/Debug/net8.0/usecases.pdb
+/Users/kornkunayothin/Workspace/thanachart/usecases/bin/Debug/net8.0/core.dll
+/Users/kornkunayothin/Workspace/thanachart/usecases/bin/Debug/net8.0/core.pdb
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.csproj.AssemblyReference.cache
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.AssemblyInfoInputs.cache
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.AssemblyInfo.cs
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.csproj.CoreCompileInputs.cache
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.csproj.Up2Date
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.dll
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/refint/usecases.dll
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/usecases.pdb
+/Users/kornkunayothin/Workspace/thanachart/usecases/obj/Debug/net8.0/ref/usecases.dll

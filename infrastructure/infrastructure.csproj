@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>infrastrucrue</RootNamespace>
+    </PropertyGroup>
+    <ItemGroup>
+        <FrameworkReference Include="Microsoft.AspNetCore.App"/>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Ardalis.SharedKernel"/>
+        <PackageReference Include="Ardalis.Specification.EntityFrameworkCore"/>
+        <PackageReference Include="Autofac"/>
+        <PackageReference Include="EFCore.NamingConventions"/>
+        <PackageReference Include="MediatR"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL"/>
+        <PackageReference Include="AspNetCore.HealthChecks.NpgSql"/>
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\core\core.csproj" />
+      <ProjectReference Include="..\usecases\usecases.csproj" />
+    </ItemGroup>
+
+</Project>
